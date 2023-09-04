@@ -19,5 +19,12 @@ def short_story():
     print(file.part11(), "\n")
     print(RavenHaesakkers.par12(), "\n")
 
+    #ACT 3
+    print(Angelica.par13(), "\n")
+    print(Angeline.Act_3(), "\n")
+    print(caleb.par15(), "\n")
+    print(Paula.par16(), "\n")
+    print(file.part17(), "\n")
+    print(RavenHaesakkers.par18(), "\n")
 our_names()
 short_story()
