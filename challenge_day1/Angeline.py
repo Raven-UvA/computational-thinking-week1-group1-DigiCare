@@ -1,10 +1,13 @@
 def MyName():
     return "Angeline"
 
+<<<<<<< HEAD
 
 << << << < HEAD
 
 
+=======
+>>>>>>> 60b201797cb2548a8e26d00133b6bb06c07428b0
 def mycharacter():
     return "Phoneix"
 
@@ -18,6 +21,7 @@ def Act_2():
 
 
 def Act_3():
+<<<<<<< HEAD
     return "Not only Charlie, everyone standing in the crowd recognizes this move. There was no warmth in the room, with each of the individuals encircled by despire and horror. Everybody turned to Charlie with a dead stare, they all have the feeling that this must be something to do with him. Lukas on the other hand started to scream with panic, falling down on his knees with blood dripping down from his eyes. What did I do? Did I murderer him? More and more questions blow out from Charile’s head. Slow and calm, Phoenix started to speak, “Calm down everyone, I think this is not what we think it is. It is the murder that is misleading us, be focused guys!” On the right side by the shelf, Monica and Scarlet are holding each other's hands with tears sliding down from their cheeks. Through their faces, Phoenix could see haunting fear. Charlie stretches out his quivering hands and places it below Lukas’s nose. No breathe."
 
 
@@ -41,3 +45,6 @@ def Act_3():
 
 
 >>>>>> > d9c8d4beb365a53b3a3cdf9bd91d872113031d05
+=======
+    return "Not only Charlie, everyone standing in the crowd recognizes this move. There was no warmth in the room, with each of the individuals encircled by despair and horror. Everybody turned to Charlie with a dead stare, they all have the feeling that this must be something to do with him. Lukas on the other hand started to scream with panic, falling down on his knees with blood dripping down from his eyes. What did I do? Did I murder him? More and more questions blow out from Charlie's head. Slow and calm, Phoenix started to speak, “Calm down everyone, I think this is not what we think it is. It is the murder that is misleading us, be focused guys!” On the right side by the shelf, Monica and Scarlet are holding each other's hands with tears sliding down from their cheeks. Through their faces, Phoenix could see haunting fear. Charlie stretches out his quivering hands and places it below Lukas’s nose. No breathe."
+>>>>>>> 60b201797cb2548a8e26d00133b6bb06c07428b0
