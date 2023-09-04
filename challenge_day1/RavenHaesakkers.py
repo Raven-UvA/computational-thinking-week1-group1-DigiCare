@@ -1,4 +1,4 @@
-def Name():
+def MyName():
    return "Raven"
 
 
