@@ -10,4 +10,3 @@ def solution_station_4(n):
     else:
         return False 
         
-print(solution_station_4(2))
