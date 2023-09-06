@@ -8,5 +8,3 @@ def solution_station_2(date):
     day = date_obj.weekday()
     dayOfWeek = weekDays[day]
     return dayOfWeek
-
-print(solution_station_2())
