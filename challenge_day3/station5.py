@@ -6,8 +6,7 @@ teams = {1: ["Isis", "Maria", "Mika", "Rosa", "Maj", "Damari"],
          6: ["Angeline", "Matas", "Raven", "Caleb", "Paula", "Angelica"]
          }
 
-def solution_station_5(name):
-    
 
+def solution_station_5(name):
 
 
