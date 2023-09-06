@@ -7,7 +7,7 @@ e = 0.5
 def solution_station_7(equation):
     
     result = eval(equation, {'a': a, 'b': b, 'c': c, 'd': d, 'e': e})
-    return result
+    return float(result)
     
 
     

@@ -1,6 +1,7 @@
-import math
+import numpy as np
 
 
 def solution_station_6(x):
-    y = math.sin(x)
-    return y
+    y = np.sin(x)
+    return round(y, 4)
+
