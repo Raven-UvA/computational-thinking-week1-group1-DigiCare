@@ -7,6 +7,7 @@ SummaryMetaTable = {
         end
         return newSummary
     end
+    
 }
 
 -- Read data from `data4.txt`
