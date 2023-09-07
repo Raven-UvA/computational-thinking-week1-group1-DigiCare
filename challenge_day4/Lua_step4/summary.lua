@@ -35,7 +35,7 @@ for _, line in ipairs(lines) do
     if summary.super > 0 then
         finalSummary = "super"
     elseif summary.good >= 2 then
-        finalSummaries = "good"
+        finalSummary = "good"
     elseif summary.middle >= 3 then
         finalSummary = "middle"
     else
@@ -51,4 +51,5 @@ out:write("Name,Technical Skills,Soft Skills,Business Skills,Creative Skills,Aca
 for _, entry in ipairs(people) do
     out:write(table.concat(entry, ',') .. "\n")
 end
+---@diagnostic disable-next-line: need-check-nil
 out:close()
